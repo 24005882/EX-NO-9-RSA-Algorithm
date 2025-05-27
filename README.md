@@ -1,6 +1,6 @@
-# EX-NO-9-RSA-Algorithm
-## NAME:S.L.NARASIMHA REDDY
-## REG.NO:212223040214
+# EX-NO-9-RSA-Algorithm 
+developed by: M tharun
+## reg no: 212224230288
 
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
